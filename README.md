@@ -22,6 +22,9 @@
 - Github's Markdown cheatsheet 
   - Added under `cheatsheets/markdown-cheatsheet.pdf`
 
+- Rapidxml library
+  - [Two minute learning](https://rapidxml.sourceforge.net/manual.html#namespacerapidxml_1two_minute_tutorial)
+  - Added under `Libraries/rapid-json-2-minute-learning.md`
 </details>
 
 ### Hashtags
