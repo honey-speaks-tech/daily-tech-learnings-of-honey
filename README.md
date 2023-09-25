@@ -35,6 +35,7 @@
 <a name="cmake"></a>
 - Cmake wisdom nugget
   - cmake module directive to parse documentation
+    - [Documentation in .cmake](https://github.com/honey-speaks-tech/daily-tech-learnings-of-honey/blob/main/developer_ecosystem/learn_cmake/cmake_tips.md#wisdom-nugget-1)
     - Added under `developer_ecosystem/learn_cmake/cmake_tips.md`
 
 </details>
