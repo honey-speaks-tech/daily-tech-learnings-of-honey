@@ -31,6 +31,12 @@
 - Reusable code snippets
   - Generic function template for logging exceptions: `reusable_code_snippets/cpp/generic_function_template_for_logging.cpp`
 
+<a name="dev_ecosystem"></a>
+<a name="cmake"></a>
+- Cmake wisdom nugget
+  - cmake module directive to parse documentation
+    - Added under `developer_ecosystem/learn_cmake/cmake_tips.md`
+
 </details>
 
 ### Hashtags
@@ -40,3 +46,6 @@
   - [#cheatsheets](#cheatsheets)
   - [#libraries](#libraries)
   - [#code_snippets](#code_snippets)
+  - [#dev_ecosystem](#dev_ecosystem)
+  - [#cmake](#cmake)
+  
