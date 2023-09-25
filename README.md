@@ -1,10 +1,11 @@
 # Honey's daily technical learnings
-This repository is to keep track of my continuous technical learning efforts. This repo consists of example codes, links to articles / tech videos, podcasts, readme etc.
-As and when required, this repo would be organized into sub-folders for easy access. 
+- This repository is to keep track of my continuous technical learning efforts. 
+- This repo consists of example codes, links to articles / tech videos, podcasts, readme etc.
+- As and when required, this repo would be organized into sub-folders for easy access. 
 
-*Start date : 25 - Sep - 2023*
+- *Start date : 25 - Sep - 2023* ; *End date : Infinite*
 
-*End date : Infinite*
+- Deeply inspired by [@amitness](https://github.com/amitness)
 
 <details>
 <summary>Day 1</summary>
