@@ -12,9 +12,13 @@ As and when required, this repo would be organized into sub-folders for easy acc
 - [OpportunisticRefactoring article by @martinfowler](https://martinfowler.com/bliki/OpportunisticRefactoring.html)
 <a name="tech_quotes"></a>
 - > “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
-  > ― Martin Fowler
+  > ― Martin Fowler'
+<a name="cheatsheets"></a>
+- Github's Markdown cheatsheet 
+  - Added under `cheatsheets/markdown-cheatsheet.pdf`
 
 ### Hashtags
   - [#refactoring](#refactoring)
   - [#software_craftsmanship](#software_craftsmanship)
   - [#tech_quotes](#tech_quotes)
+  - [#cheatsheets](#cheatsheets)
