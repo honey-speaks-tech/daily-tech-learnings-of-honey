@@ -39,6 +39,29 @@
   - cmake module directive to parse documentation
     - [Documentation in .cmake](https://github.com/honey-speaks-tech/daily-tech-learnings-of-honey/blob/main/developer_ecosystem/learn_cmake/cmake_tips.md#wisdom-nugget-1)
     - Added under `developer_ecosystem/learn_cmake/cmake_tips.md`
+- Cmake useful references
+  - [ ] [Reusable cmake-modules github](https://github.com/bilke/cmake-modules)
+</details>
+
+<details>
+<summary>Technical learning wishlist</summary>
+
+<a name="technical_writing"></a>
+<details>
+<summary>Technical writing</summary>
+
+|Resource|Progress|
+|---|---|
+|[Article: 33 Good Technical Writing Examples](https://templatelab.com/technical-writing-examples)| |
+</details>
+
+<details>
+<summary>General technical knowledge</summary>
+
+|Resource|Progress|
+|---|---|
+|[Article: What Every Programmer Should Know About Memory](honey-speaks-tech/daily-tech-learnings-of-honey/tech_concepts_upskilling/memory/WhatEveryProgrammerShouldKnowAboutMemory.pdf)| |
+</details>
 
 </details>
 
@@ -51,4 +74,4 @@
   - [#code_snippets](#code_snippets)
   - [#dev_ecosystem](#dev_ecosystem)
   - [#cmake](#cmake)
-  
+  - [#technical_writing](#technical_writing)  
