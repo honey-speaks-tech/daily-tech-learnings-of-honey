@@ -22,9 +22,15 @@
 - Github's Markdown cheatsheet 
   - Added under `cheatsheets/markdown-cheatsheet.pdf`
 
+<a name="libraries"></a>
 - Rapidxml library
   - [Two minute learning](https://rapidxml.sourceforge.net/manual.html#namespacerapidxml_1two_minute_tutorial)
   - Added under `Libraries/rapid-json-2-minute-learning.md`
+
+<a name="code_snippets"></a>
+- Reusable code snippets
+  - Generic function template for logging exceptions: `reusable_code_snippets/cpp/generic_function_template_for_logging.cpp`
+
 </details>
 
 ### Hashtags
@@ -32,3 +38,5 @@
   - [#software_craftsmanship](#software_craftsmanship)
   - [#tech_quotes](#tech_quotes)
   - [#cheatsheets](#cheatsheets)
+  - [#libraries](#libraries)
+  - [#code_snippets](#code_snippets)
