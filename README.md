@@ -11,8 +11,8 @@
 <summary>Day 1</summary>
 
 <a name="refactoring"></a>
-<a name="software_craftsmanship"></a>
 - [OpportunisticRefactoring article by @martinfowler](https://martinfowler.com/bliki/OpportunisticRefactoring.html)
+<a name="software_craftsmanship"></a>
 
 <a name="tech_quotes"></a>
 - > “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
@@ -34,8 +34,8 @@
   - Converts string view to raw char buffer : `reusable_code_snippets/cpp/string_view_to_raw_buffer.cpp`
 
 <a name="dev_ecosystem"></a>
-<a name="cmake"></a>
 - Cmake wisdom nugget
+<a name="cmake"></a>
   - cmake module directive to parse documentation
     - [Documentation in .cmake](https://github.com/honey-speaks-tech/daily-tech-learnings-of-honey/blob/main/developer_ecosystem/learn_cmake/cmake_tips.md#wisdom-nugget-1)
     - Added under `developer_ecosystem/learn_cmake/cmake_tips.md`
@@ -46,9 +46,9 @@
 <details>
 <summary>Technical learning wishlist</summary>
 
-<a name="technical_writing"></a>
 <details>
 <summary>Technical writing</summary>
+<a name="technical_writing"></a>
 
 |Resource|Progress|
 |---|---|
