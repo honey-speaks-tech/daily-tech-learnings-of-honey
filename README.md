@@ -31,6 +31,7 @@
 - Reusable code snippets
   - Generic function template for logging exceptions: `reusable_code_snippets/cpp/generic_function_template_for_logging.cpp`
   - Converts stringstream to string to raw char buffer : `reusable_code_snippets/cpp/string_stream_to_string_to_raw_char_buff.cpp`
+  - Converts string view to raw char buffer : `reusable_code_snippets/cpp/string_view_to_raw_buffer.cpp`
 
 <a name="dev_ecosystem"></a>
 <a name="cmake"></a>
