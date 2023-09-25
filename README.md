@@ -1,8 +1,8 @@
-# daily-tech-learnings-of-honey
+# Honey's daily technical learnings
 This repository is to keep track of my continuous technical learning efforts. This repo consists of example codes, links to articles / tech videos, podcasts, readme etc.
 As and when required, this repo would be organized into sub-folders for easy access. 
 
-*Start date : 25 - Sep - 2023*
+*Start date : 25 - Sep - 2023* \br
 *End date : Infinite*
 
 ## Day 1
@@ -10,6 +10,6 @@ As and when required, this repo would be organized into sub-folders for easy acc
 <a name="software_craftsmanship"></a>
 - [OpportunisticRefactoring article by @martinfowler](https://martinfowler.com/bliki/OpportunisticRefactoring.html)
 
-#Hashtags
+### Hashtags
   - [#refactoring](#refactoring)
   - [#software_craftsmanship](#software_craftsmanship)
