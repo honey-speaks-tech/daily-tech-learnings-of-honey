@@ -1,4 +1,4 @@
-## cmake wisdom nuggets
+# cmake wisdom nuggets
 
 ### Documentation in cmake module
 #### Wisdom nugget 1:
