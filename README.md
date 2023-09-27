@@ -54,6 +54,10 @@
 - cppcoreguidelines about lambda
   - [Use an unnamed lambda if you need a simple function object in one place only](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#f11-use-an-unnamed-lambda-if-you-need-a-simple-function-object-in-one-place-only)
 
+<a name="code_snippets"></a>
+- Reusable code snippets
+  - Convert string to vector of characters : `reusable_code_snippets/cpp/string_to_vector_of_chars.cpp`
+
 </details>
 
 <details>
