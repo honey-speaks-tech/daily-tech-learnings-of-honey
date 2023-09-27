@@ -44,6 +44,23 @@
 </details>
 
 <details>
+<summary>Day 2</summary>
+
+<a name="cheatsheets"></a>
+- hackingcpp cheatsheets 
+  - std::string interfaces added under `cheatsheets/hackingcpp_cheatsheets/string_interfaces.png`
+
+</details>
+
+<details>
+<summary>My go-to references</summary>
+
+<a name="cpp_standards"></a>
+- C++ draft standards
+  - [C++ unofficial working papers github page](https://github.com/timsong-cpp/cppwp)
+</details>
+
+<details>
 <summary>Technical learning wishlist</summary>
 
 <details>
@@ -63,6 +80,27 @@
 |[Article: What Every Programmer Should Know About Memory](honey-speaks-tech/daily-tech-learnings-of-honey/tech_concepts_upskilling/memory/WhatEveryProgrammerShouldKnowAboutMemory.pdf)| |
 </details>
 
+<details>
+<summary>C++ articles</summary>
+
+<a name="cpp"></a>
+
+|Resource|Progress|
+|---|---|
+|[Blog: Understanding when not to std::move in C++](https://developers.redhat.com/blog/2019/04/12/understanding-when-not-to-stdmove-in-c)| |
+</details>
+
+<details>
+<summary>C++ committee support</summary>
+<details>
+<summary>Papers review wishlist</summary>
+
+|Resource|Progress|
+|---|---|
+|[Paper: P2951R3 - Shadowing is good for safety](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2951r3.html)| |
+</details>
+</details>
+
 </details>
 
 ### Hashtags
@@ -74,4 +112,6 @@
   - [#code_snippets](#code_snippets)
   - [#dev_ecosystem](#dev_ecosystem)
   - [#cmake](#cmake)
-  - [#technical_writing](#technical_writing)  
+  - [#technical_writing](#technical_writing)
+  - [#cpp_standards](#cpp_standards)
+  - [#cpp](#cpp)
