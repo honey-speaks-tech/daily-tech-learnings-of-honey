@@ -50,6 +50,10 @@
 - hackingcpp cheatsheets 
   - std::string interfaces added under `cheatsheets/hackingcpp_cheatsheets/string_interfaces.png`
 
+<a name="cppcoreguidelines"></a>
+- cppcoreguidelines about lambda
+  - [Use an unnamed lambda if you need a simple function object in one place only](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#f11-use-an-unnamed-lambda-if-you-need-a-simple-function-object-in-one-place-only)
+
 </details>
 
 <details>
@@ -58,6 +62,10 @@
 <a name="cpp_standards"></a>
 - C++ draft standards
   - [C++ unofficial working papers github page](https://github.com/timsong-cpp/cppwp)
+
+<a name="cpp"></a>
+- Modern C++ features
+  - [Anthony Calandra modern-cpp-features github page](https://github.com/AnthonyCalandra/modern-cpp-features)  
 </details>
 
 <details>
@@ -115,3 +123,4 @@
   - [#technical_writing](#technical_writing)
   - [#cpp_standards](#cpp_standards)
   - [#cpp](#cpp)
+  - [#cppcoreguidelines](#cppcoreguidelines)
