@@ -65,7 +65,11 @@
 
 <a name="cpp"></a>
 - Modern C++ features
-  - [Anthony Calandra modern-cpp-features github page](https://github.com/AnthonyCalandra/modern-cpp-features)  
+  - [Anthony Calandra modern-cpp-features github page](https://github.com/AnthonyCalandra/modern-cpp-features)
+
+<a name="tech_conferences"></a>
+- Worldwide developer conferences
+  - [Developer conference agenda github](https://github.com/scraly/developers-conferences-agenda)
 </details>
 
 <details>
@@ -124,3 +128,4 @@
   - [#cpp_standards](#cpp_standards)
   - [#cpp](#cpp)
   - [#cppcoreguidelines](#cppcoreguidelines)
+  - [#tech_conferences](#tech_conferences)
