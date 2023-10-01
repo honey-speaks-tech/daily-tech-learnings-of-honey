@@ -61,6 +61,14 @@
 </details>
 
 <details>
+<summary>Day 3</summary>
+<a name="code_snippets"></a>
+- Reusable code snippets
+  - Some sample printing using `fmt` library : `reusable_code_snippets/cpp/fmt_print_sample.cpp`
+
+</details>
+
+<details>
 <summary>My go-to references</summary>
 
 <a name="cpp_standards"></a>
