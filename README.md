@@ -82,6 +82,12 @@
 <a name="tech_conferences"></a>
 - Worldwide developer conferences
   - [Developer conference agenda github](https://github.com/scraly/developers-conferences-agenda)
+
+<a name="study_support_for_my_son"></a>
+<a name="language_learning"></a>
+- Pronunciation helper
+  - [Sounds of text](https://soundoftext.com/)
+
 </details>
 
 <details>
@@ -141,3 +147,5 @@
   - [#cpp](#cpp)
   - [#cppcoreguidelines](#cppcoreguidelines)
   - [#tech_conferences](#tech_conferences)
+  - [#language_learning](#language_learning)
+  - [#study_support_for_my_son](#study_support_for_my_son)
