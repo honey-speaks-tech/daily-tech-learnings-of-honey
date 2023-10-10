@@ -91,6 +91,23 @@
 </details>
 
 <details>
+<summary>Interesting concepts learning workshops</summary>
+
+<a name="cmake"></a>
+- Cmake
+  - [Coderefinery Cmake workshop](https://coderefinery.github.io/cmake-workshop/)
+
+<a name="git"></a>
+- Git
+  - [Coderefinery Git workshop](https://coderefinery.github.io/git-intro/)
+
+<a name="ready_templates"></a>
+- Empty lesson template
+  - [Empty lesson template](https://github.com/coderefinery/sphinx-lesson-template)
+
+</details>
+
+<details>
 <summary>Technical learning wishlist</summary>
 
 <details>
@@ -149,3 +166,5 @@
   - [#tech_conferences](#tech_conferences)
   - [#language_learning](#language_learning)
   - [#study_support_for_my_son](#study_support_for_my_son)
+  - [#git](#git)
+  - [#ready_templates](#ready_templates)
