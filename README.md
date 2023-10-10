@@ -101,6 +101,10 @@
 - Git
   - [Coderefinery Git workshop](https://coderefinery.github.io/git-intro/)
 
+<a name="documentation"></a>
+- Documentation
+  - [How to document your research software](https://coderefinery.github.io/documentation/)
+
 <a name="ready_templates"></a>
 - Empty lesson template
   - [Empty lesson template](https://github.com/coderefinery/sphinx-lesson-template)
