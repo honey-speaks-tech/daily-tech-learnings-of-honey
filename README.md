@@ -96,6 +96,7 @@
 <a name="cmake"></a>
 - Cmake
   - [Coderefinery Cmake workshop](https://coderefinery.github.io/cmake-workshop/)
+  - [More modern Cmake](https://hsf-training.github.io/hsf-training-cmake-webpage/)
 
 <a name="git"></a>
 - Git
@@ -104,6 +105,21 @@
 <a name="documentation"></a>
 - Documentation
   - [How to document your research software](https://coderefinery.github.io/documentation/)
+
+- Open source software
+  - [Social coding and open software - What can you do to get credit for your code and to allow reuse](https://coderefinery.github.io/social-coding/)
+
+- Jupyter notebooks
+  - [Jupyter notebooks - A tool to write and share executable notebooks and data visualization](https://coderefinery.github.io/jupyter/)
+
+- Automated testing
+  - [Automated testing - Preventing yourself and others from breaking your functioning code](https://coderefinery.github.io/testing/)
+
+- Modular code development
+  - [Modular code development - Making reusing parts of your code easier](https://coderefinery.github.io/modular-type-along/)
+
+- Data visualization
+  - [Data visualization using Python](https://coderefinery.github.io/data-visualization-python/)
 
 <a name="ready_templates"></a>
 - Empty lesson template
@@ -129,6 +145,7 @@
 |Resource|Progress|
 |---|---|
 |[Article: What Every Programmer Should Know About Memory](honey-speaks-tech/daily-tech-learnings-of-honey/tech_concepts_upskilling/memory/WhatEveryProgrammerShouldKnowAboutMemory.pdf)| |
+|[Article: Ten simple rules for quick and dirty scientific programming](honey-speaks-tech/daily-tech-learnings-of-honey/tech_concepts_upskilling/memory/BetterProgramming/Ten simple rules for quick and dirty scientific programming.pdf)| |
 </details>
 
 <details>
