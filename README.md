@@ -27,12 +27,6 @@
   - [Two minute learning](https://rapidxml.sourceforge.net/manual.html#namespacerapidxml_1two_minute_tutorial)
   - Added under `Libraries/rapid-json-2-minute-learning.md`
 
-<a name="code_snippets"></a>
-- Reusable code snippets
-  - Generic function template for logging exceptions: `reusable_code_snippets/cpp/generic_function_template_for_logging.cpp`
-  - Converts stringstream to string to raw char buffer : `reusable_code_snippets/cpp/string_stream_to_string_to_raw_char_buff.cpp`
-  - Converts string view to raw char buffer : `reusable_code_snippets/cpp/string_view_to_raw_buffer.cpp`
-
 <a name="dev_ecosystem"></a>
 - Cmake wisdom nugget
 <a name="cmake"></a>
@@ -54,18 +48,18 @@
 - cppcoreguidelines about lambda
   - [Use an unnamed lambda if you need a simple function object in one place only](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#f11-use-an-unnamed-lambda-if-you-need-a-simple-function-object-in-one-place-only)
 
-<a name="code_snippets"></a>
-- Reusable code snippets
-  - Convert string to vector of characters : `reusable_code_snippets/cpp/string_to_vector_of_chars.cpp`
-
 </details>
 
 <details>
-<summary>Day 3</summary>
+<summary>Reusable code snippets</summary>
 <a name="code_snippets"></a>
-- Reusable code snippets
+- C++
   - Some sample printing using `fmt` library : `reusable_code_snippets/cpp/fmt_print_sample.cpp`
-
+  - Convert string to vector of characters : `reusable_code_snippets/cpp/string_to_vector_of_chars.cpp`
+  - Generic function template for logging exceptions: `reusable_code_snippets/cpp/generic_function_template_for_logging.cpp`
+  - Converts stringstream to string to raw char buffer : `reusable_code_snippets/cpp/string_stream_to_string_to_raw_char_buff.cpp`
+  - Converts string view to raw char buffer : `reusable_code_snippets/cpp/string_view_to_raw_buffer.cpp`
+  - Extracts file name from path : `reusable_code_snippets/cpp/extract_file_name_from_path.cpp`
 </details>
 
 <details>
@@ -166,6 +160,7 @@
 |Resource|Progress|
 |---|---|
 |[Paper: P2951R3 - Shadowing is good for safety](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2951r3.html)| |
+</details>
 </details>
 </details>
 
