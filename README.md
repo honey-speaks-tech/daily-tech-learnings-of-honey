@@ -169,6 +169,39 @@
 </details>
 </details>
 
+<details>
+<summary>My other learning interests</summary>
+
+<a name="visual_art"></a>
+- Visual art
+|Resource|Progress|
+|---|---|
+  - |[Mike Rhode's 15 minute lesson on 5 basic elements of drawing](https://www.youtube.com/watch?v=msWjW15Uzhk)| |
+  - |[](https://burobrand.nl/wp-content/uploads/2021/01/Whitepaper-Five-Visual-Thinking-Types_160121.pdf)| |
+
+
+  - Books
+    - Visual Meetings - Dave Sibbet
+    - Visual Leaders - Dave Sibbet
+    - Understanding Comics - (For Nivu)
+    - Making Comics - (For Nivu)
+    - Creating clarity - Holger Nils Pohl
+    - How to design visual templates - Bas Bakker
+    - 100 daily drawings - Holger Nils Pohl
+
+  - Some visual artists to follow
+    - @tbx314
+    - James Durno
+    - @visual_jam
+    - Andy Gray
+
+  - Some more resources
+    - [Martin Haussmann, the founder of Bikablo](https://bikablo.com/en/home-page/)
+    - [Visual Jam community](https://community.thevisualjam.com/invitation?code=EF66B6)
+    - [Visual friends radio](https://www.visualfriends.de/bikablo-radio-more-to-explore-in-the-world-of-visualisation-with-martin-haussmann/)
+    - [Sketchnote army podcast](https://sketchnotearmy.com/podcast)
+    - [Paddy Dhanda's LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7117929494740381696/)
+
 </details>
 
 ### Hashtags
@@ -189,3 +222,4 @@
   - [#study_support_for_my_son](#study_support_for_my_son)
   - [#git](#git)
   - [#ready_templates](#ready_templates)
+  - [#visual_art](#visual_art)
