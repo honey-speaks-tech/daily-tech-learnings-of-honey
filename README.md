@@ -51,6 +51,17 @@
 </details>
 
 <details>
+<summary>Day 3</summary>
+
+<a name="cppcoreguidelines"></a>
+- cppcoreguidelines about template meta programming
+  - [T.120: Use template metaprogramming only when you really need to](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#t120-use-template-metaprogramming-only-when-you-really-need-to)
+  - [T.121: Use template metaprogramming primarily to emulate concepts](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#t121-use-template-metaprogramming-primarily-to-emulate-concepts)
+
+</details>
+
+
+<details>
 <summary>Reusable code snippets</summary>
 <a name="code_snippets"></a>
 - C++
@@ -82,6 +93,15 @@
 - Pronunciation helper
   - [Sounds of text](https://soundoftext.com/)
 
+</details>
+
+<details>
+<summary>Developers toolbox</summary>
+
+<a name="cpp"></a>
+- Utilities
+  - [camomilla](https://github.com/vittorioromeo/camomilla)
+    - camomilla is a simple Python 3 script that simplifies errors produced by C++ compilers. It is very useful while dealing with heavily-templated code (e.g. when using boost::hana or boost::fusion).
 </details>
 
 <details>
@@ -153,6 +173,16 @@
 </details>
 
 <details>
+<summary>C++ videos</summary>
+
+<a name="cpp"></a>
+
+|Resource|Progress|
+|---|---|
+|[Video: Let's get comfortable with SFINAE (C++)](https://youtu.be/-Z7EOWVkb3M?si=VDtWDJfC-erAfGbI)| |
+</details>
+
+<details>
 <summary>C++ committee support</summary>
 <details>
 <summary>Papers review wishlist</summary>
@@ -196,6 +226,20 @@
     - [Visual friends radio](https://www.visualfriends.de/bikablo-radio-more-to-explore-in-the-world-of-visualisation-with-martin-haussmann/)
     - [Sketchnote army podcast](https://sketchnotearmy.com/podcast)
     - [Paddy Dhanda's LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7117929494740381696/)
+
+</details>
+
+<details>
+<summary>Meetups/Conferences I attended</summary>
+
+<details>
+<summary>C++ meetups</summary>
+<a name="cpp"></a>
+
+|Date|Name|Session|Youtube Video|
+|---|---|---|---|
+|14-10-2023|[GRCCP] - Athens C++ Meetup|Let's get comfortable with SFINAE|https://youtu.be/-Z7EOWVkb3M?si=RFCo7rbRQPQAcZWS|
+</details>
 
 </details>
 
