@@ -84,6 +84,10 @@
 - Modern C++ features
   - [Anthony Calandra modern-cpp-features github page](https://github.com/AnthonyCalandra/modern-cpp-features)
 
+<a name="system_design"></a>
+- System Design
+  - [System design byte sized lessons by Alex Xu](https://github.com/ByteByteGoHq/system-design-101)
+
 <a name="tech_conferences"></a>
 - Worldwide developer conferences
   - [Developer conference agenda github](https://github.com/scraly/developers-conferences-agenda)
@@ -102,6 +106,17 @@
 - Utilities
   - [camomilla](https://github.com/vittorioromeo/camomilla)
     - camomilla is a simple Python 3 script that simplifies errors produced by C++ compilers. It is very useful while dealing with heavily-templated code (e.g. when using boost::hana or boost::fusion).
+</details>
+
+<details>
+- Potential Github repos to contribute
+  <a name="cpp"></a>
+  - C++
+    - [Boost::stacktrace](https://github.com/boostorg/stacktrace/)
+    - [Awesome-cpp](https://github.com/fffaraz/awesome-cpp)
+    - [Modern CPP Tutorial](https://github.com/changkun/modern-cpp-tutorial)
+    - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
+
 </details>
 
 <details>
@@ -262,3 +277,4 @@
   - [#git](#git)
   - [#ready_templates](#ready_templates)
   - [#visual_art](#visual_art)
+  - [#system_design](#system_design)
