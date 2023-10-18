@@ -60,6 +60,15 @@
 
 </details>
 
+<details>
+<summary>Day 4</summary>
+
+<a name="lucid_suite"></a>
+- LucidChart webinar
+  - [LucidChart playground and presentation](https://lucid.app/lucidchart/2625a20c-74aa-4986-ab4a-9241c4529952/edit?viewport_loc=-802%2C120%2C3706%2C2104%2CMtuiO7oqJjT3&invitationId=inv_ecac68d4-d9a7-4125-a339-db8bf08777e7)
+
+</details>
+
 
 <details>
 <summary>Reusable code snippets</summary>
