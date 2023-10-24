@@ -230,6 +230,12 @@
 </details>
 
 <details>
+<summary>Open-source projects I contribute</summary>
+<a name="open_source"></a>
+- [Free programming books](https://github.com/EbookFoundation/free-programming-books)
+</details>
+
+<details>
 <a name="books"></a>
 <summary> Book recommendations </summary>
 - Professional
@@ -308,3 +314,4 @@
   - [#visual_art](#visual_art)
   - [#system_design](#system_design)
   - [#books](#books)
+  - [#open_source](open_source)
