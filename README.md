@@ -69,6 +69,17 @@
 
 </details>
 
+<details>
+<summary>Day 5</summary>
+
+<a name="json_schema"></a>
+- JSON schema
+  - [JSON Schema](https://json-schema.org/)
+    - While JSON is probably the most popular format for exchanging data, JSON Schema is the vocabulary that enables JSON data consistency, validity, and interoperability at scale.
+    - [JSON schema docs](https://json-schema.org/overview/what-is-jsonschema)
+
+</details>
+
 
 <details>
 <summary>Reusable code snippets</summary>
@@ -219,6 +230,15 @@
 </details>
 
 <details>
+<a name="books"></a>
+<summary> Book recommendations </summary>
+- Professional
+  - "You Are a Badass” by Jen Sincero
+  - NPR’s How I Built This hosted by Guy Raz.
+  - Rich Dad Poor Dad
+</details>
+
+<details>
 <summary>My other learning interests</summary>
 
 <a name="visual_art"></a>
@@ -287,3 +307,4 @@
   - [#ready_templates](#ready_templates)
   - [#visual_art](#visual_art)
   - [#system_design](#system_design)
+  - [#books](#books)
