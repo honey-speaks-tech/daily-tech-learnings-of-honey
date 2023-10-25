@@ -13,6 +13,7 @@
   <img src="https://contrib.rocks/image?repo=honey-speaks-tech/daily-tech-learnings-of-honey"  alt="daily-tech-learnings-of-honey contributors"/>
 </a>
 
+## Daily learning log
 <details>
 <summary>Day 1</summary>
 
@@ -86,7 +87,7 @@
 
 </details>
 
-
+## Knowledge Bank
 <details>
 <summary>Reusable code snippets</summary>
 <a name="code_snippets"></a>
