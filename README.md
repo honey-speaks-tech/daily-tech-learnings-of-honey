@@ -87,6 +87,38 @@
 
 </details>
 
+<details>
+<summary>Day 6</summary>
+<a name="dev_ecosystem"></a>
+- run-clang-tidy.py
+  - [Parallel clang-tidy runner](https://github.com/llvm/llvm-project/blob/main/clang-tools-extra/clang-tidy/tool/run-clang-tidy.py)
+
+</details>
+
+<details>
+<summary>Day 7</summary>
+
+<a name="qnx"></a>
+- QNX binary debugging commands
+  - `uname -m`
+  - `readelf -a /proc/self/exe | grep -q -c Tag_ABI_VFP_args && echo "armhf" || echo "armel"`
+  - qemu-$arch-static file is just an interpreter to run the architecture speicfic binary. Below is an example to run aarch64 specifc binary bin/hello-aarch64 on qemu-aarch64-static.
+  ```
+  $ uname -m
+  x86_64
+
+  $ file bin/hello-aarch64
+  bin/hello-aarch64: ELF 64-bit LSB executable, ARM aarch64, version 1 (GNU/Linux), statically linked, BuildID[sha1]=fa19c63e3c60463e686564eeeb0937959bd6f559, for GNU/Linux 3.7.0, not stripped, too many notes (256)
+
+  $ bin/hello-aarch64
+  bash: bin/hello-aarch64: cannot execute binary file: Exec format error
+
+  $ qemu-aarch64-static bin/hello-aarch64
+  Hello World!
+  ```
+
+</details>
+
 ## Knowledge Bank
 <details>
 <summary>Reusable code snippets</summary>
@@ -133,6 +165,11 @@
 - Utilities
   - [camomilla](https://github.com/vittorioromeo/camomilla)
     - camomilla is a simple Python 3 script that simplifies errors produced by C++ compilers. It is very useful while dealing with heavily-templated code (e.g. when using boost::hana or boost::fusion).
+  - [ctcache](https://github.com/matus-chochlik/ctcache)
+    - Cache for clang-tidy static analysis results.
+    - clang-tidy-cache is a command-line application which "wraps" invocations of the clang-tidy static analysis tool and caches the results of successful runs of clang-tidy. 
+    - On subsequent invocations of clang-tidy on an unchanged translation unit, the result is retrieved from the cache and clang-tidy is not executed. 
+    - For most C/C++ projects this allows to have static analysis checks enabled without paying the cost of excessive build times when re-checking the same unchanged source code.
 </details>
 
 <details>
@@ -322,3 +359,4 @@
   - [#system_design](#system_design)
   - [#books](#books)
   - [#open_source](open_source)
+  - [#qnx](#qnx)
