@@ -133,6 +133,14 @@
 </details>
 
 <details>
+<summary>Cheatsheets</summary>
+<a name="cheatsheets"></a>
+- Gitlab markdown emoji cheatsheet
+  - [Emoji cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+</details>
+
+<details>
 <summary>My go-to references</summary>
 
 <a name="cpp_standards"></a>
