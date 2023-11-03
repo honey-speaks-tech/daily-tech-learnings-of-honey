@@ -128,6 +128,22 @@
   - The key benefit of using packages from Bincrafters is that it can significantly reduce build times for C/C++ projects that depend on these libraries as they are able to provide prebuilt binaries, cached artifacts, better dependency management, precompiled headers, parallel builds etc.
   - `conan remote add bincrafters https://api.bintray.com/conan/bincrafters/public-conan`
   - `Boost.System/1.64.0@bincrafters/stable`
+
+<a name="cpp"></a>
+- system_clock vs steady_clock in std::chrono
+  - std::chrono::system_clock
+    - Tracks wall-clock time from the system-wide realtime clock.
+    - The time points of this clock can jump forwards and backwards as the system time is changed.
+    - Time points are convertible to UTC through system_clock::to_time_t() and std::gmtime().
+    - Useful for synchronizing events across system time changes.
+  - std::chrono::steady_clock
+    - Provides a monotonically increasing clock, that never jumps forwards or backwards.
+    - Time points from this clock cannot be converted to UTC.
+    - Useful for measuring intervals of time. e.g. benchmarking, repeatable timeouts.
+    - Unaffected by system time adjustments or changes to the system clock.
+
+    - In summary, system_clock represents wall-clock time and steady_clock represents monotonic time since an arbitrary point. 
+    - Choose based on whether you need UTC mapping or monotonic timings.  
 </details>
 
 ## Knowledge Bank
