@@ -119,6 +119,17 @@
 
 </details>
 
+<details>
+<summary>Day 8</summary>
+<a name="dev_ecosystem"></a>
+- Bincrafters
+  - [Bincrafters](https://bincrafters.github.io/2017/06/06/using-bincrafters-conan-repository/)
+  - Bincrafters is a community repository that provides Conan package recipes for many popular C/C++ libraries like Boost, OpenSSL etc. 
+  - The key benefit of using packages from Bincrafters is that it can significantly reduce build times for C/C++ projects that depend on these libraries as they are able to provide prebuilt binaries, cached artifacts, better dependency management, precompiled headers, parallel builds etc.
+  - `conan remote add bincrafters https://api.bintray.com/conan/bincrafters/public-conan`
+  - `Boost.System/1.64.0@bincrafters/stable`
+</details>
+
 ## Knowledge Bank
 <details>
 <summary>Reusable code snippets</summary>
