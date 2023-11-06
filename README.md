@@ -18,14 +18,17 @@
 <summary>Day 1</summary>
 
 <a name="refactoring"></a>
+
 - [OpportunisticRefactoring article by @martinfowler](https://martinfowler.com/bliki/OpportunisticRefactoring.html)
 <a name="software_craftsmanship"></a>
 
 <a name="tech_quotes"></a>
+
 - > “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
   > ― Martin Fowler'
 
 <a name="cheatsheets"></a>
+
 - Github's Markdown cheatsheet 
   - Added under `cheatsheets/markdown-cheatsheet.pdf`
 
@@ -35,6 +38,7 @@
   - Added under `Libraries/rapid-json-2-minute-learning.md`
 
 <a name="dev_ecosystem"></a>
+
 - Cmake wisdom nugget
 <a name="cmake"></a>
   - cmake module directive to parse documentation
@@ -48,10 +52,12 @@
 <summary>Day 2</summary>
 
 <a name="cheatsheets"></a>
+
 - hackingcpp cheatsheets 
   - std::string interfaces added under `cheatsheets/hackingcpp_cheatsheets/string_interfaces.png`
 
 <a name="cppcoreguidelines"></a>
+
 - cppcoreguidelines about lambda
   - [Use an unnamed lambda if you need a simple function object in one place only](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#f11-use-an-unnamed-lambda-if-you-need-a-simple-function-object-in-one-place-only)
 
@@ -61,6 +67,7 @@
 <summary>Day 3</summary>
 
 <a name="cppcoreguidelines"></a>
+
 - cppcoreguidelines about template meta programming
   - [T.120: Use template metaprogramming only when you really need to](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#t120-use-template-metaprogramming-only-when-you-really-need-to)
   - [T.121: Use template metaprogramming primarily to emulate concepts](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#t121-use-template-metaprogramming-primarily-to-emulate-concepts)
@@ -71,6 +78,7 @@
 <summary>Day 4</summary>
 
 <a name="lucid_suite"></a>
+
 - LucidChart webinar
   - [LucidChart playground and presentation](https://lucid.app/lucidchart/2625a20c-74aa-4986-ab4a-9241c4529952/edit?viewport_loc=-802%2C120%2C3706%2C2104%2CMtuiO7oqJjT3&invitationId=inv_ecac68d4-d9a7-4125-a339-db8bf08777e7)
 
@@ -80,6 +88,7 @@
 <summary>Day 5</summary>
 
 <a name="json_schema"></a>
+
 - JSON schema
   - [JSON Schema](https://json-schema.org/)
     - While JSON is probably the most popular format for exchanging data, JSON Schema is the vocabulary that enables JSON data consistency, validity, and interoperability at scale.
@@ -89,6 +98,7 @@
 
 <details>
 <summary>Day 6</summary>
+
 <a name="dev_ecosystem"></a>
 - run-clang-tidy.py
   - [Parallel clang-tidy runner](https://github.com/llvm/llvm-project/blob/main/clang-tools-extra/clang-tidy/tool/run-clang-tidy.py)
@@ -99,6 +109,7 @@
 <summary>Day 7</summary>
 
 <a name="qnx"></a>
+
 - QNX binary debugging commands
   - `uname -m`
   - `readelf -a /proc/self/exe | grep -q -c Tag_ABI_VFP_args && echo "armhf" || echo "armel"`
@@ -122,6 +133,7 @@
 <details>
 <summary>Day 8</summary>
 <a name="dev_ecosystem"></a>
+
 - Bincrafters
   - [Bincrafters](https://bincrafters.github.io/2017/06/06/using-bincrafters-conan-repository/)
   - Bincrafters is a community repository that provides Conan package recipes for many popular C/C++ libraries like Boost, OpenSSL etc. 
@@ -130,6 +142,7 @@
   - `Boost.System/1.64.0@bincrafters/stable`
 
 <a name="cpp"></a>
+
 - system_clock vs steady_clock in std::chrono
   - std::chrono::system_clock
     - Tracks wall-clock time from the system-wide realtime clock.
@@ -149,6 +162,7 @@
 ## Knowledge Bank
 <details>
 <summary>Reusable code snippets</summary>
+
 <a name="code_snippets"></a>
 - C++
   - Some sample printing using `fmt` library : `reusable_code_snippets/cpp/fmt_print_sample.cpp`
@@ -161,6 +175,7 @@
 
 <details>
 <summary>Cheatsheets</summary>
+
 <a name="cheatsheets"></a>
 - Gitlab markdown emoji cheatsheet
   - [Emoji cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
@@ -208,8 +223,9 @@
 </details>
 
 <details>
-- Potential Github repos to contribute
-  <a name="cpp"></a>
+<summary> Potential Github repos to contribute </summary>
+
+<a name="cpp"></a>
   - C++
     - [Boost::stacktrace](https://github.com/boostorg/stacktrace/)
     - [Awesome-cpp](https://github.com/fffaraz/awesome-cpp)
@@ -275,7 +291,9 @@
 
 |Resource|Progress|
 |---|---|
+
 |[Article: What Every Programmer Should Know About Memory](honey-speaks-tech/daily-tech-learnings-of-honey/tech_concepts_upskilling/memory/WhatEveryProgrammerShouldKnowAboutMemory.pdf)| |
+
 |[Article: Ten simple rules for quick and dirty scientific programming](honey-speaks-tech/daily-tech-learnings-of-honey/tech_concepts_upskilling/memory/BetterProgramming/Ten simple rules for quick and dirty scientific programming.pdf)| |
 </details>
 
@@ -286,6 +304,7 @@
 
 |Resource|Progress|
 |---|---|
+
 |[Blog: Understanding when not to std::move in C++](https://developers.redhat.com/blog/2019/04/12/understanding-when-not-to-stdmove-in-c)| |
 </details>
 
@@ -296,6 +315,7 @@
 
 |Resource|Progress|
 |---|---|
+
 |[Video: Let's get comfortable with SFINAE (C++)](https://youtu.be/-Z7EOWVkb3M?si=VDtWDJfC-erAfGbI)| |
 </details>
 
@@ -306,6 +326,7 @@
 
 |Resource|Progress|
 |---|---|
+
 |[Paper: P2951R3 - Shadowing is good for safety](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2951r3.html)| |
 </details>
 </details>
@@ -313,6 +334,7 @@
 
 <details>
 <summary>Open-source projects I contribute</summary>
+
 <a name="open_source"></a>
 - [Free programming books](https://github.com/EbookFoundation/free-programming-books)
 </details>
@@ -320,6 +342,7 @@
 <details>
 <a name="books"></a>
 <summary> Book recommendations </summary>
+
 - Professional
   - "You Are a Badass” by Jen Sincero
   - NPR’s How I Built This hosted by Guy Raz.
@@ -330,12 +353,12 @@
 <summary>My other learning interests</summary>
 
 <a name="visual_art"></a>
+
 - Visual art
 |Resource|Progress|
 |---|---|
   - |[Mike Rhode's 15 minute lesson on 5 basic elements of drawing](https://www.youtube.com/watch?v=msWjW15Uzhk)| |
   - |[](https://burobrand.nl/wp-content/uploads/2021/01/Whitepaper-Five-Visual-Thinking-Types_160121.pdf)| |
-
 
   - Books
     - Visual Meetings - Dave Sibbet
