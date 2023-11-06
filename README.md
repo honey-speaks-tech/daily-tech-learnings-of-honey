@@ -215,6 +215,9 @@
     - [Awesome-cpp](https://github.com/fffaraz/awesome-cpp)
     - [Modern CPP Tutorial](https://github.com/changkun/modern-cpp-tutorial)
     - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
+  <a name="python"></a>  
+  - Python
+    - [Precommit](https://github.com/pre-commit/pre-commit-hooks)
 
 </details>
 
@@ -395,3 +398,4 @@
   - [#books](#books)
   - [#open_source](open_source)
   - [#qnx](#qnx)
+  - [#python](#python)
