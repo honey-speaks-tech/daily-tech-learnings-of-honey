@@ -171,6 +171,7 @@
   - Converts stringstream to string to raw char buffer : `reusable_code_snippets/cpp/string_stream_to_string_to_raw_char_buff.cpp`
   - Converts string view to raw char buffer : `reusable_code_snippets/cpp/string_view_to_raw_buffer.cpp`
   - Extracts file name from path : `reusable_code_snippets/cpp/extract_file_name_from_path.cpp`
+  - String empty check : `reusable_code_snippets/cpp/string_empty_check.cpp`
 </details>
 
 <details>
