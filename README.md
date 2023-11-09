@@ -178,6 +178,19 @@
     - [How to Speed Read | Tim Ferriss](https://youtu.be/ZwEquW_Yij0)
     - [How long will it take to read that book?](https://www.readinglength.com/)
   - Action item : Try to read `Accelerate` : Part 1 over the week; and meeting scheduled for next Thursday (16-11-2023).
+
+  <a name="cpp"></a>
+  - `struct TimingSpec timing_spec{};` vs `TimingSpec timing_spec_1;`
+    - Sometimes (likely in a header), you forward-declare a class instead of including its header, and declare use a pointer or reference to that class.
+      - e.g. as a function parameter
+      - for example
+        ```cpp
+        class Animal;
+        void play_cry(Animal* p_animal);
+        ```
+      - and that's fine, after the forward declaration, Animal is what you'd call an "incomplete" type, and you can have pointers and references to those
+      - Instead of doing a forward declaration, you can write `void play_cry(struct Animal* p_animal)` as a short hand with the same effect. 
+      - struct or class, doesn't matter
 </details>
 
 ## Knowledge Bank
@@ -193,6 +206,8 @@
   - Converts string view to raw char buffer : `reusable_code_snippets/cpp/string_view_to_raw_buffer.cpp`
   - Extracts file name from path : `reusable_code_snippets/cpp/extract_file_name_from_path.cpp`
   - String empty check : `reusable_code_snippets/cpp/string_empty_check.cpp`
+  - Struct instantiation formats : `reusable_code_snippets/cpp/struct_instantiate_formats.cpp`
+  - Nested try catch inside catch block : `reusable_code_snippets/cpp/nested_try_catch_inside_catch.cpp`
 - Python
   - Finds number of CPU cores : `reusable_code_snippets/python/num_cpu_cores.py`
 </details>
