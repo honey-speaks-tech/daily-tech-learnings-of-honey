@@ -172,6 +172,8 @@
   - Converts string view to raw char buffer : `reusable_code_snippets/cpp/string_view_to_raw_buffer.cpp`
   - Extracts file name from path : `reusable_code_snippets/cpp/extract_file_name_from_path.cpp`
   - String empty check : `reusable_code_snippets/cpp/string_empty_check.cpp`
+- Python
+  - Finds number of CPU cores : `reusable_code_snippets/python/num_cpu_cores.py`
 </details>
 
 <details>
@@ -232,9 +234,16 @@
     - [Awesome-cpp](https://github.com/fffaraz/awesome-cpp)
     - [Modern CPP Tutorial](https://github.com/changkun/modern-cpp-tutorial)
     - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
-  <a name="python"></a>  
+    - [Indicators](https://github.com/p-ranav/indicators)
+<a name="python"></a>  
   - Python
     - [Precommit](https://github.com/pre-commit/pre-commit-hooks)
+<a name="cmake"></a>  
+  - Cmake
+    - [Lefticus' cmake template](https://github.com/cpp-best-practices/cmake_template)
+<a name="technical_review"></a>
+  - Review and learning
+    - [Lefticus' cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices)
 
 </details>
 
@@ -423,3 +432,4 @@
   - [#open_source](open_source)
   - [#qnx](#qnx)
   - [#python](#python)
+  - [#technical_review](#technical_review)  
