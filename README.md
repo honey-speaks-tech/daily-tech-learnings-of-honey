@@ -159,6 +159,27 @@
     - Choose based on whether you need UTC mapping or monotonic timings.  
 </details>
 
+<details>
+<summary>Day 9</summary>
+<a name="productivity"></a>
+
+- Speed reading
+  - Takeaway from Technical Leaders' Guild meetup #1
+  - Eye exercises - circular motion, circular motion following a pacer
+  - Breathing, food, water, oxygen, posture
+  - Reading following finger
+  - Speed read to beat sub-vocalization.
+  - Read table of contents
+  - Focus on interesting chapters to read
+  - Try to comprehend what you read rather than blindly focusing on reading entire text.
+  - Even if you slow-read, brain can't capture or retain all information you read.
+  - Regular practice makes speed reading better
+  - Useful resource
+    - [How to Speed Read | Tim Ferriss](https://youtu.be/ZwEquW_Yij0)
+    - [How long will it take to read that book?](https://www.readinglength.com/)
+  - Action item : Try to read `Accelerate` : Part 1 over the week; and meeting scheduled for next Thursday (16-11-2023).
+</details>
+
 ## Knowledge Bank
 <details>
 <summary>Reusable code snippets</summary>
@@ -432,4 +453,5 @@
   - [#open_source](open_source)
   - [#qnx](#qnx)
   - [#python](#python)
-  - [#technical_review](#technical_review)  
+  - [#technical_review](#technical_review)
+  - [#productivity](#productivity)
