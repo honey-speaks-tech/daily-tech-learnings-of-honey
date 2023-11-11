@@ -231,6 +231,10 @@
 <a name="cpp"></a>
 - Modern C++ features
   - [Anthony Calandra modern-cpp-features github page](https://github.com/AnthonyCalandra/modern-cpp-features)
+- Reference for resources to learn C++
+  - [Modern C++ resources blog by `modernescpp`](https://www.modernescpp.org/resources/)
+  - [Resources that help you to delve into C++ by @LesleyLai](https://lesleylai.info/en/delve_into_cpp)
+  - [Where to Get Started Learing C++ and What Resources to Use](https://shafik.github.io/c++/learning/2019/09/05/getting_started_learning_cpp.html)  
 
 <a name="system_design"></a>
 - System Design
