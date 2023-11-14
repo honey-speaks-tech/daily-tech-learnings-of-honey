@@ -284,6 +284,7 @@
 <a name="technical_review"></a>
   - Review and learning
     - [Lefticus' cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices)
+    - [Jan Wilmans' C++ guidelines](https://github.com/janwilmans/guidelines/tree/main)
 
 </details>
 
