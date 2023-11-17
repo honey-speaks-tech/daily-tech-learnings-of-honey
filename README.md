@@ -193,6 +193,25 @@
       - struct or class, doesn't matter
 </details>
 
+<details>
+<summary>Day 10 </summary>
+<a name= "dev_ecosystem"></a>
+<a name="clang_tidy"></a>
+- clang_tidy valuable points
+  - CMake runs Clang-Tidy as it builds the code `CMAKE_CXX_CLANG_TIDY` is set in its options. 
+  - The `run-clang-tidy.py` script can be used to run against code which hasn't been built, using a `compile-commands.json` file. 
+    - Ensure that any required source code generation is done first. 
+  - As Clang-Tidy takes a lot of time, that's probably going to be an issue either way. 
+    - Refer `clang-tidy-diff.py` for optimizing Clang-Tidy runs to only run against a set of changes.
+</details>
+
+<details>
+<summary> Day 11 </summary>
+<a name="cpp"></a>
+- C++ Essentials : Templates (By Klaus Iglberger)
+  - [Templates training Materials](https://github.com/igl42/oreilly)
+</details>
+
 ## Knowledge Bank
 <details>
 <summary>Reusable code snippets</summary>
@@ -458,6 +477,8 @@
   - [#code_snippets](#code_snippets)
   - [#dev_ecosystem](#dev_ecosystem)
   - [#cmake](#cmake)
+  - [#conan](#conan)
+  - [#clang_tidy](#clang_tidy)
   - [#technical_writing](#technical_writing)
   - [#cpp_standards](#cpp_standards)
   - [#cpp](#cpp)
