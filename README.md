@@ -294,6 +294,10 @@
     - [Modern CPP Tutorial](https://github.com/changkun/modern-cpp-tutorial)
     - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
     - [Indicators](https://github.com/p-ranav/indicators)
+    - [C++ tip of the week](https://github.com/tip-of-the-week/cpp/tree/master)
+<a name="coding_challenges"></a>
+  - Coding challenges
+    - [John Crickett's crowd-sourced coding challenges solution website](https://github.com/CodingChallegesFYI/SharedSolutions)
 <a name="python"></a>  
   - Python
     - [Precommit](https://github.com/pre-commit/pre-commit-hooks)
@@ -364,7 +368,16 @@
 
 |[Article: What Every Programmer Should Know About Memory](honey-speaks-tech/daily-tech-learnings-of-honey/tech_concepts_upskilling/memory/WhatEveryProgrammerShouldKnowAboutMemory.pdf)| |
 
-|[Article: Ten simple rules for quick and dirty scientific programming](honey-speaks-tech/daily-tech-learnings-of-honey/tech_concepts_upskilling/memory/BetterProgramming/Ten simple rules for quick and dirty scientific programming.pdf)| |
+|[Article: Ten simple rules for quick and dirty scientific programming](honey-speaks-tech/daily-tech-learnings-of-honey/tech_concepts_upskilling/BetterProgramming/Ten simple rules for quick and dirty scientific programming.pdf)| |
+</details>
+
+<details>
+<summary>Software Architecture</summary>
+<a name="software_architecture"></a>
+|Resource|Progress|
+|---|---|
+
+|[Article: Learning resources for software architecture](honey-speaks-tech/daily-tech-learnings-of-honey/tech_concepts_upskilling/SoftwareArchitecture/15WaysToLearnSoftwareArchitecture.md)| |
 </details>
 
 <details>
@@ -479,6 +492,7 @@
   - [#cmake](#cmake)
   - [#conan](#conan)
   - [#clang_tidy](#clang_tidy)
+  - [#coding_challenges](#coding_challenges)
   - [#technical_writing](#technical_writing)
   - [#cpp_standards](#cpp_standards)
   - [#cpp](#cpp)
@@ -490,6 +504,7 @@
   - [#ready_templates](#ready_templates)
   - [#visual_art](#visual_art)
   - [#system_design](#system_design)
+  - [#software_architecture](#software_architecture)
   - [#books](#books)
   - [#open_source](open_source)
   - [#qnx](#qnx)
