@@ -1,0 +1,17 @@
+#15 ways to learn Software Architecture.
+
+- Read: [Clean Architecture: A Craftsman's Guide to Software Structure and Design: A Craftsman's Guide to Software Structure and Design by Robert C. Martin](https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/)
+- Read: [Fundamentals of Software Architecture: An Engineering Approach](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
+- Read: [Software Architecture for Developers by Simon Brown](https://softwarearchitecturefordevelopers.com/)
+- Read: [Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures](https://www.oreilly.com/library/view/software-architecture-the/9781492086888/)
+- Do: [Architecture Kata’s](https://www.architecturalkatas.com/)
+- Course: [Software Architecture Foundations on LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-foundations/the-importance-of-software-architecture)
+- Read: [Design It!](https://www.oreilly.com/library/view/design-it/9781680502923/)
+- Course: [Software Architecture on Coursera](https://www.coursera.org/learn/software-architecture)
+- Course: [Tech on the Go: From Software Developer to Architect on LinkedIn Learning](https://www.linkedin.com/learning/tech-on-the-go-from-software-developer-to-architect-17333335/moving-into-software-architecture)
+- Read: [Just Enough Software Architecture](https://www.georgefairbanks.com/book/)
+- Course: [Software Architecture: From Developer to Architect on LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-from-developer-to-architect/wisdom-in-software-engineering)
+- Course: [The Complete Guide to Becoming a Software Architect on Udemy](https://www.udemy.com/course/the-complete-guide-to-becoming-a-software-architect/)
+- Course: [Software Architecture & Design of Modern Large Scale Systems on Udemy](https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/)
+- Read: [Designing Data-Intensive Applications](https://dataintensive.net/)
+- Watch: [Software Architecture video training series by O’Reilly](https://www.oreilly.com/software-architecture-video-training-series.html)
