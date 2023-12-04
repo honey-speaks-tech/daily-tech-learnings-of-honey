@@ -253,7 +253,8 @@
 - Reference for resources to learn C++
   - [Modern C++ resources blog by `modernescpp`](https://www.modernescpp.org/resources/)
   - [Resources that help you to delve into C++ by @LesleyLai](https://lesleylai.info/en/delve_into_cpp)
-  - [Where to Get Started Learing C++ and What Resources to Use](https://shafik.github.io/c++/learning/2019/09/05/getting_started_learning_cpp.html)  
+  - [Where to Get Started Learing C++ and What Resources to Use](https://shafik.github.io/c++/learning/2019/09/05/getting_started_learning_cpp.html)
+  - [C++ Resources Available to All, Bay Area C++ Meetup, June 2022](https://www.youtube.com/watch?v=QDWLDRTvZIw&list=PLY0Zjn5rFo4MrVc-iNrD1cCdMxYoSgdwT&index=9)
 
 <a name="system_design"></a>
 - System Design
@@ -341,6 +342,14 @@
 
 - Data visualization
   - [Data visualization using Python](https://coderefinery.github.io/data-visualization-python/)
+
+<a name="artificial_intelligence"></a>
+- Artificial intelligence
+  - [Neural Networks: Zero to Hero](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=2)
+    - [Associated notebook](https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing)
+  - [Neural network training course](https://www.3blue1brown.com/topics/neural-networks)
+  - [1hr Talk - Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g&list=PLAqhIrjkxbuW9U8-vZ_s_cjKPT_FqRStI)
+  - [MIT Introduction to Deep Learning | 6.S191](https://www.youtube.com/watch?v=QDX-1M5Nj7s)
 
 <a name="ready_templates"></a>
 - Empty lesson template
@@ -468,6 +477,14 @@
 </details>
 
 <details>
+
+- Brain training
+
+  - [Rubik's cube tutorials by Andrej Karpathi](https://www.youtube.com/user/badmephisto/featured)
+
+</details>
+
+<details>
 <summary>Meetups/Conferences I attended</summary>
 
 <details>
@@ -481,7 +498,15 @@
 
 </details>
 
+<details>
+<summary>Inspiring technical people</summary>
+
+- [Andrej Karpathy](https://karpathy.ai/)
+- 
+</details>
+
 ### Hashtags
+  - [#artificial_intelligence](#artificial_intelligence)
   - [#refactoring](#refactoring)
   - [#software_craftsmanship](#software_craftsmanship)
   - [#tech_quotes](#tech_quotes)
