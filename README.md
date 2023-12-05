@@ -212,6 +212,14 @@
   - [Templates training Materials](https://github.com/igl42/oreilly)
 </details>
 
+<details>
+<summary> Day 12 </summary>
+<a name="dev_ecosystem"></a>
+- Sonatype 
+  - Vulnerability analysis tool
+  - Details added under #Developers toolbox section
+</details>
+
 ## Knowledge Bank
 <details>
 <summary>Reusable code snippets</summary>
@@ -283,6 +291,13 @@
     - clang-tidy-cache is a command-line application which "wraps" invocations of the clang-tidy static analysis tool and caches the results of successful runs of clang-tidy. 
     - On subsequent invocations of clang-tidy on an unchanged translation unit, the result is retrieved from the cache and clang-tidy is not executed. 
     - For most C/C++ projects this allows to have static analysis checks enabled without paying the cost of excessive build times when re-checking the same unchanged source code.
+- Tools
+  - [Sonatype](https://www.sonatype.com/)
+    - Manage your software supply chain at scale. Deliver products faster with safer open source. Protect software from malware attacks.
+    - [Sonatype OSS index](https://ossindex.sonatype.org/)
+      - OSS Index is a free catalogue of open source components and scanning tools to help developers identify vulnerabilities, understand risk, and keep their software safe.
+    - [Sonatype github](https://github.com/sonatype)
+    - [Webinar : Fireside Chat with BMW and Their Software Supply Chain Management Journey by Fred Farber, Enterprise Architect for BMW of North America](https://www.brighttalk.com/webcast/19417/589101?bt_tok=&utm_source=Sonatype)
 </details>
 
 <details>
