@@ -500,6 +500,13 @@
 </details>
 
 <details>
+
+- Daily self-help wisdom nuggets
+  - [O'Reilly Audiobooks playlist by Assemble You](https://learning.oreilly.com/publisher/assemble-you/)
+
+</details>
+
+<details>
 <summary>Meetups/Conferences I attended</summary>
 
 <details>
