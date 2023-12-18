@@ -317,6 +317,7 @@
 <a name="python"></a>  
   - Python
     - [Precommit](https://github.com/pre-commit/pre-commit-hooks)
+    - [Home automation](https://github.com/home-assistant/core)
 <a name="cmake"></a>  
   - Cmake
     - [Lefticus' cmake template](https://github.com/cpp-best-practices/cmake_template)
