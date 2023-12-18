@@ -500,9 +500,17 @@
 </details>
 
 <details>
+<summary>Daily learning playlist</summary>
 
+<a name="self_help"></a>
 - Daily self-help wisdom nuggets
   - [O'Reilly Audiobooks playlist by Assemble You](https://learning.oreilly.com/publisher/assemble-you/)
+
+<a name="clean_code"></a>
+<a name="software_craftsmanship"></a>
+- Daily clean code nuggets
+ - [Code smells series](https://maximilianocontieri.com/)
+ - [Clean code cookbook code examples](https://github.com/mcsee/clean-code-cookbook)
 
 </details>
 
@@ -558,3 +566,6 @@
   - [#python](#python)
   - [#technical_review](#technical_review)
   - [#productivity](#productivity)
+  - [#self_help](#self_help)
+  - [#clean_code](#clean_code)
+  
