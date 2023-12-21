@@ -311,6 +311,8 @@
     - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
     - [Indicators](https://github.com/p-ranav/indicators)
     - [C++ tip of the week](https://github.com/tip-of-the-week/cpp/tree/master)
+    - [Anthony Calandra's Modern C++ features](https://github.com/AnthonyCalandra/modern-cpp-features)
+
 <a name="coding_challenges"></a>
   - Coding challenges
     - [John Crickett's crowd-sourced coding challenges solution website](https://github.com/CodingChallegesFYI/SharedSolutions)
