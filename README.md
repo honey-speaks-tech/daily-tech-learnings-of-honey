@@ -291,6 +291,8 @@
     - clang-tidy-cache is a command-line application which "wraps" invocations of the clang-tidy static analysis tool and caches the results of successful runs of clang-tidy. 
     - On subsequent invocations of clang-tidy on an unchanged translation unit, the result is retrieved from the cache and clang-tidy is not executed. 
     - For most C/C++ projects this allows to have static analysis checks enabled without paying the cost of excessive build times when re-checking the same unchanged source code.
+  - [JIRA to Lucid document](https://github.com/jakechr/jira-to-lucid-doc)
+    - Script that can take JIRA tasks for a particular user and convert it to a Lucid document.
 - Tools
   - [Sonatype](https://www.sonatype.com/)
     - Manage your software supply chain at scale. Deliver products faster with safer open source. Protect software from malware attacks.
