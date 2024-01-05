@@ -293,6 +293,8 @@
     - For most C/C++ projects this allows to have static analysis checks enabled without paying the cost of excessive build times when re-checking the same unchanged source code.
   - [JIRA to Lucid document](https://github.com/jakechr/jira-to-lucid-doc)
     - Script that can take JIRA tasks for a particular user and convert it to a Lucid document.
+  - [Cmake reusable functions](https://github.com/aminya/project_options)
+    - A general-purpose CMake library that provides functions that improve the CMake experience following the best practices.
 - Tools
   - [Sonatype](https://www.sonatype.com/)
     - Manage your software supply chain at scale. Deliver products faster with safer open source. Protect software from malware attacks.
