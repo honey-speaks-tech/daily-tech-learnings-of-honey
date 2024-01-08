@@ -522,6 +522,21 @@
 </details>
 
 <details>
+<summary>A tech talk a day playlist</summary>
+<a name="cpp"></a>
+|Talk|Date|Progress|
+|---|---|
+|[MISRA C++ 2023 : Everything you need to know](https://www.brighttalk.com/webcast/18694/602198?bt_tok=264712432&utm_campaign=602198&utm_medium=brighttalk&_hsmi=285898922&_hsenc=p2ANqtz--LIGeQCyMw2XRRRn81nvnN445x_SNpqtIfxEWQioNQf4xXMmzuj6YkTcTwl6PN6OxfFf4MGtwTPO2Cg4XUG5bYm67dbvJGgK_b7ntmGX5NW9D4eHY&utm_source=Parasoft)|08-01-2024|Not started|
+</details>
+
+<details>
+<summary>Modern C++ resources for reading code</summary>
+<a name="cpp"></a>
+- [Squey](https://gitlab.com/squey/squey)
+- [Book : Physical based rendering]https://pbr-book.org/4ed/contents)
+</details> 
+
+<details>
 <summary>Meetups/Conferences I attended</summary>
 
 <details>
