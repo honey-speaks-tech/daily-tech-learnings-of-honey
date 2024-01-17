@@ -240,6 +240,14 @@
 </details>
 
 <details>
+<summary>Resources for resources</summary>
+
+<a name="better_engineer"></a>
+- Resources
+  - [Gregor Ojsteresek's resources to become great engineering leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader)
+</details>
+
+<details>
 <summary>Cheatsheets</summary>
 
 <a name="cheatsheets"></a>
