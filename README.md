@@ -220,6 +220,13 @@
   - Details added under #Developers toolbox section
 </details>
 
+<details>
+<summary> Day 13 </summary>
+<a name="cmake"></a>
+- Cmake
+  - [CMake youtube tutorial's notes](https://codevion.github.io/#!cpp/cmake.md)
+</details>
+
 ## Knowledge Bank
 <details>
 <summary>Reusable code snippets</summary>
@@ -271,6 +278,10 @@
   - [Resources that help you to delve into C++ by @LesleyLai](https://lesleylai.info/en/delve_into_cpp)
   - [Where to Get Started Learing C++ and What Resources to Use](https://shafik.github.io/c++/learning/2019/09/05/getting_started_learning_cpp.html)
   - [C++ Resources Available to All, Bay Area C++ Meetup, June 2022](https://www.youtube.com/watch?v=QDWLDRTvZIw&list=PLY0Zjn5rFo4MrVc-iNrD1cCdMxYoSgdwT&index=9)
+
+<a name="cmake"></a> 
+ - CMake tutorials
+   - [Simplified CMake tutorial - Youtbue video](https://youtu.be/mKZ-i-UfGgQ?si=WbPR1KILC5ExC0EP)
 
 <a name="system_design"></a>
 - System Design
