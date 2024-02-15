@@ -282,6 +282,7 @@
 <a name="cmake"></a> 
  - CMake tutorials
    - [Simplified CMake tutorial - Youtbue video](https://youtu.be/mKZ-i-UfGgQ?si=WbPR1KILC5ExC0EP)
+   - [Sample project folder organization using CMake](https://github.com/dev-cafe/cmake-cookbook/tree/master/chapter-07/recipe-07/cxx-example)
 
 <a name="system_design"></a>
 - System Design
