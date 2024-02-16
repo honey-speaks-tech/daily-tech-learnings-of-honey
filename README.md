@@ -284,6 +284,12 @@
    - [Simplified CMake tutorial - Youtbue video](https://youtu.be/mKZ-i-UfGgQ?si=WbPR1KILC5ExC0EP)
    - [Sample project folder organization using CMake](https://github.com/dev-cafe/cmake-cookbook/tree/master/chapter-07/recipe-07/cxx-example)
 
+<a name="boost_libraries"></a>
+ - Boost Date-time library
+   - [Boost datetime library - youtube video notes](https://advancedcplusplus.com/boost-date_time-part-1/)
+   - [Youtube - Boost datetime library - part 1](https://youtu.be/fxhOdIAKYhc?si=HooYWxBSJZnISIwW)
+   -  [Youtube - Boost datetime library - part 2](https://youtu.be/wH2Fd_cchsM?si=tJ1tONgarOX4Ix-_)
+
 <a name="system_design"></a>
 - System Design
   - [System design byte sized lessons by Alex Xu](https://github.com/ByteByteGoHq/system-design-101)
@@ -610,4 +616,5 @@
   - [#productivity](#productivity)
   - [#self_help](#self_help)
   - [#clean_code](#clean_code)
+  - [#boost_libraries](boost_libraries)
   
