@@ -280,6 +280,7 @@
   - [Resources that help you to delve into C++ by @LesleyLai](https://lesleylai.info/en/delve_into_cpp)
   - [Where to Get Started Learing C++ and What Resources to Use](https://shafik.github.io/c++/learning/2019/09/05/getting_started_learning_cpp.html)
   - [C++ Resources Available to All, Bay Area C++ Meetup, June 2022](https://www.youtube.com/watch?v=QDWLDRTvZIw&list=PLY0Zjn5rFo4MrVc-iNrD1cCdMxYoSgdwT&index=9)
+  - [CPPCON video archives searchable by speaker/topic/year](https://cppcon.programmingarchive.com/)
 
 <a name="cmake"></a> 
  - CMake tutorials
