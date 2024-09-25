@@ -273,6 +273,8 @@
 <a name="cpp"></a>
 - Modern C++ features
   - [Anthony Calandra modern-cpp-features github page](https://github.com/AnthonyCalandra/modern-cpp-features)
+  - [Federico Busato's Modern C++ Book](https://github.com/federico-busato/Modern-CPP-Programming)
+
 - Reference for resources to learn C++
   - [Modern C++ resources blog by `modernescpp`](https://www.modernescpp.org/resources/)
   - [Resources that help you to delve into C++ by @LesleyLai](https://lesleylai.info/en/delve_into_cpp)
